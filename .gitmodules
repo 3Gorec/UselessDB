@@ -1,0 +1,9 @@
+[submodule "UselessDBd"]
+	path = UselessDBd
+	url = git@github.com:3Gorec/UselessDBd.git
+[submodule "UselessDBclient"]
+	path = UselessDBclient
+	url = git@github.com:3Gorec/UselessDBclient.git
+[submodule "UselessDBkm"]
+	path = UselessDBkm
+	url = git@github.com:3Gorec/UselessDBkm.git
